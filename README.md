@@ -14,5 +14,6 @@ The replication code has the following files:
   - Input2.xlsx: original and transformed input data
   - Replication code
   - Posteriors: the posterior draws analysed in the research
-  - Impulse esponse function calculation
+  - GeneralizedIRF: Impulse response function calculation
   - Functions folder: all functions in the code (most of the functions are written by Haroon Mumtaz)
+  - Figures folder: all 6 uncertainty indices and their comparison with other uncertainty indices.
